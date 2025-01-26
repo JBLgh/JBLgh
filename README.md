@@ -11,7 +11,7 @@ I’m a researcher at **OHSU, Oregon Health & Science University**, with a goal 
 
 ---
 
-### 📚 Current Focus:
+### 🔬 Current Focus:
 - Investigating **gene expression** and **cellular mechanisms** in thick ascending limb (TAL) cells.  
 - Utilizing **sc-RNAseq** and **bioinformatics tools** to uncover novel insights.  
 - Improving **data visualization** for biological research.  
