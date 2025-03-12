@@ -7,7 +7,7 @@ I’m a researcher at **OHSU, Oregon Health & Science University**, with a goal 
 
 ###  <img src="https://cdn.iconscout.com/icon/free/png-512/free-kidney-icon-download-in-svg-png-gif-file-formats--organ-health-medical-pack-healthcare-icons-20102.png?f=webp&w=512" title="Kidney2" alt="Kidney2" width="35" height="35"/> Current Focus:
 - Investigating **gene expression** and **cellular mechanisms** in thick ascending limb (TAL) cells.  
-- Utilizing **sc-RNAseq** and **bioinformatics tools** to uncover novel insights.  
+- Utilizing **sn-RNAseq** and **bioinformatics tools** to uncover novel insights.  
 - Improving **data visualization** for biological research.
 
 ---
