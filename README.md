@@ -23,4 +23,4 @@ I’m a researcher at **OHSU, Oregon Health & Science University**, with a goal 
 ---
 
 Feel free to explore my repositories and reach out if you’d like to collaborate! 🚀  
-[Visit the Ellison lab website:](https://www.ohsu.edu/school-of-medicine/ellison-lab)
+[Visit the Ellison lab website](https://www.ohsu.edu/school-of-medicine/ellison-lab)
